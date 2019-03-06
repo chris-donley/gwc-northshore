@@ -3,146 +3,146 @@
         {
             "title": "Harry Potter and the Sorcerer's Stone",
             "author": "J K Rowling",
-            "isbn": "978-283-0474",
-            "age": "11,12"
+            "isbn": "0590353403",
+            "age": ["eleven","twelve"]
         },
         {
             "title": "Harry Potter and the Chamber of Secrets",
             "author": "J K Rowling",
-            "isbn": "978-283-0474",
-            "age": "11"
+            "isbn": "702003344X",
+            "age": ["eleven"]
         },
         {
             "title": "Harry Potter and the Prisoner of Azkaban",
             "author": "J K Rowling",
-            "isbn": "978-283-0474",
-            "age": "11"
+            "isbn": "0545582938",
+            "age": ["eleven"]
         },
         {
             "title": "Holes",
             "author": "Louis Sachar",
-            "isbn": "978-283-0474",
-            "age": "11,12,13"
+            "isbn": "0747589992",
+            "age": ["eleven","twelve","thirteen"]
         },
         {
             "title": "Harry Potter and the Goblet of Fire",
             "author": "J K Rowling",
-            "isbn": "978-283-0474",
-            "age": "11,13"
+            "isbn": "0747573638",
+            "age": ["eleven","thirteen"]
         },
         {
             "title": "The Lightning Thief",
             "author": "Rick Riordan",
-            "isbn": "978-283-0474",
-            "age": "11"
+            "isbn": "0786856297",
+            "age": ["eleven"]
         },
         {
             "title": "Harry Potter and the Order of the Phoenix",
             "author": "J K Rowling",
-            "isbn": "978-283-0474",
-            "age": "11"        
+            "isbn": "074756941X",
+            "age": ["eleven"]
         },
         {
             "title": "The Secret Garden",
             "author": "Frances Hodgson Burnett",
-            "isbn": "978-283-0474",
-            "age": "11"
+            "isbn": "0192738275",
+            "age": ["eleven"]
         },
         {
             "title": "Harry Potter and the Half-blood Prince",
             "author": "J K Rowling",
-            "isbn": "978-283-0474",
-            "age": "11"        
+            "isbn": "1405904860",
+            "age": ["eleven"]
         },
         {
             "title": "Anne of Green Gables",
             "author": "L. M. Montgomery",
-            "isbn": "978-283-0474",
-            "age": "11,12"
+            "isbn": "0099582643",
+            "age": ["eleven","twelve"]
         },  
         {
             "title": "The Hobbit",
             "author": "J R R Tolkien",
-            "isbn": "978-283-0474",
-            "age": "11,12,13"
+            "isbn": "0547951973",
+            "age": ["eleven","twelve","thirteen"]
         },             
         {
             "title": "The Giver",
             "author": "Lois Lowry",
-            "isbn": "978-283-0474",
-            "age": "11,12"
+            "isbn": "0544336267",
+            "age": ["eleven","twelve"]
         },             
         {
             "title": "Diary of a Young Girl",
             "author": "Anne Frank",
-            "isbn": "978-283-0474",
-            "age": "12,13"
+            "isbn": "1125597011",
+            "age": ["twelve","thirteen"]
         },             
         {
             "title": "A Wrinkle in Time",
             "author": "Madeline L'Engle",
-            "isbn": "978-283-0474",
-            "age": "12"
+            "isbn": "0140302883",
+            "age": ["twelve"]
         },             
         {
             "title": "Matilda",
             "author": "Roald Dahl",
-            "isbn": "978-283-0474",
-            "age": "12"
+            "isbn": "0142410373",
+            "age": ["twelve"]
         },             
         {
             "title": "The Hunger Games",
             "author": "Suzanne Collins",
-            "isbn": "978-283-0474",
-            "age": "12,13"
+            "isbn": "0439023521",
+            "age": ["twelve","thirteen"]
         },             
         {
             "title": "Number the Stars",
             "author": "Lois Lowry",
-            "isbn": "978-283-0474",
-            "age": "12"
+            "isbn": "0440403278",
+            "age": ["twelve"]
         },             
         {
             "title": "Island of the Blue Dolphins",
             "author": "Scott O'Dell",
-            "isbn": "978-283-0474",
-            "age": "12"
+            "isbn": "0547328613",
+            "age": ["twelve"]
         },             
         {
             "title": "Little Women",
             "author": "Louisa May Alcott",
-            "isbn": "978-283-0474",
-            "age": "12,13"
+            "isbn": "1542049113",
+            "age": ["twelve","thirteen"]
         },             
         {
             "title": "The Chronicles of Narnia",
             "author": "C S Lewis",
-            "isbn": "978-283-0474",
-            "age": "13"
+            "isbn": "1435117158",
+            "age": ["thirteen"]
         },             
         {
             "title": "Eragon",
             "author": "Christopher Paolini",
-            "isbn": "978-283-0474",
-            "age": "13"
+            "isbn": "0552155519",
+            "age": ["thirteen"]
         },             
         {
             "title": "Ella Enchanted",
             "author": "Gail Carson Levine",
-            "isbn": "978-283-0474",
-            "age": "13"
+            "isbn": "0064407055",
+            "age": ["thirteen"]
         },             
         {
             "title": "Catching Fire",
             "author": "Suzanne Collins",
-            "isbn": "978-283-0474",
-            "age": "13"
+            "isbn": "0545879167",
+            "age": ["thirteen"]
         },             
         {
             "title": "The Curious Incident of the Dog in the Night-Time",
             "author": "Mark Haddon",
-            "isbn": "978-283-0474",
-            "age": "13"
+            "isbn": "1862307741",
+            "age": ["thirteen"]
         }             
     ]
 }
